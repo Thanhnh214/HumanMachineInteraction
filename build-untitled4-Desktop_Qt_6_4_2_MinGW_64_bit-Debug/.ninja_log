@@ -1,0 +1,15 @@
+# ninja log v5
+1	814	7064608669108653	untitled4_autogen/timestamp	3c6c95e0ad818f7
+1	814	7064608669108653	untitled4_autogen/mocs_compilation.cpp	3c6c95e0ad818f7
+1	814	7064608669108653	G:/University/HumanMachineInteraction/build-untitled4-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/untitled4_autogen/timestamp	3c6c95e0ad818f7
+1	814	7064608669108653	G:/University/HumanMachineInteraction/build-untitled4-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/untitled4_autogen/mocs_compilation.cpp	3c6c95e0ad818f7
+814	2793	7064608690069216	CMakeFiles/untitled4.dir/untitled4_autogen/mocs_compilation.cpp.obj	2e44480ddeea1b92
+817	2881	7064608690957759	CMakeFiles/untitled4.dir/main.cpp.obj	86d6b249092091a9
+821	3208	7064608694214902	CMakeFiles/untitled4.dir/mainwindow.cpp.obj	8686fedae3e13e29
+3210	3442	7064608696534249	untitled4.exe	6c074535c7618d13
+21	225	7064609333135408	untitled4_autogen/timestamp	3c6c95e0ad818f7
+21	225	7064609333135408	untitled4_autogen/mocs_compilation.cpp	3c6c95e0ad818f7
+21	225	7064609333135408	G:/University/HumanMachineInteraction/build-untitled4-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/untitled4_autogen/timestamp	3c6c95e0ad818f7
+21	225	7064609333135408	G:/University/HumanMachineInteraction/build-untitled4-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/untitled4_autogen/mocs_compilation.cpp	3c6c95e0ad818f7
+228	2144	7064609352322460	CMakeFiles/untitled4.dir/mainwindow.cpp.obj	8686fedae3e13e29
+2144	2322	7064609354063867	untitled4.exe	6c074535c7618d13
